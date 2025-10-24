@@ -6,7 +6,10 @@ members = [
     "a_mypoint_default_derives",
     "b_mypoint_serde",
     "c_mypoint_clap",
-    "d_mypoint_sqlx"
+    "e_mypoint_custom_derive_greetings", 
+    "e_mypoint_custom_derive_ctor",
+    "e_mypoint_custom_derive_macros", 
+    "tmp"
 ]
 
 [workspace.dependencies]

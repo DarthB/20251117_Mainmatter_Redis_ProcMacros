@@ -3,7 +3,7 @@ authors = ["Tim Janus"]
 language = "en"
 multilingual = false
 src = "book_src"
-title = "Rust Procedural Macros - An empowering companion 🦀"
+title = "🦀 Rust 🦀 - Procedural Macros - Expand and Implement! 🦀"
 
 [output.html.playground]
 runnable = true
