@@ -1,0 +1,16 @@
+[workspace]
+edition = "2024"
+resolver = "3"
+
+members = [
+    "a_mypoint_default_derives",
+    "b_mypoint_serde",
+    "c_mypoint_clap",
+    "d_mypoint_sqlx"
+]
+
+[workspace.dependencies]
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = {version = "1" }
+sqlx = {version = "0.8"}
