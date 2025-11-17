@@ -7,3 +7,8 @@ title = "🦀 Rust 🦀 - Procedural Macros - Expand and Implement! 🦀"
 
 [output.html.playground]
 runnable = true
+
+[output.html.print]
+enable = true
+
+[output.pdf]

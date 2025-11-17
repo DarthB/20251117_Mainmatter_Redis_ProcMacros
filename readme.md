@@ -1,5 +1,11 @@
 # Readme
 
+## Slides
+
+Either [download the PDF](20251117_Mainmatter_Redis_ProcMacros.pdf)
+
+> or Alternatively use mdbook directly:
+
 To see the slides run `mdbook serve` in the root folder of that repository. 
 
 You can install `mdbook` with
